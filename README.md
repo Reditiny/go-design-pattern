@@ -14,13 +14,13 @@
 
 ### 结构型模式
 这些模式处理对象之间的组合，以形成更大的结构，以及如何简化对象之间的交互。
-+ [适配器模式（Adapter Pattern）]()
-+ [装饰器模式（Decorator Pattern）]()
-+ [代理模式（Proxy Pattern）]()
-+ [外观模式（Facade Pattern）]()
-+ [桥接模式（Bridge Pattern）]()
-+ [组合模式（Composite Pattern）]()
-+ [享元模式（Flyweight Pattern）]()
++ [适配器模式（Adapter Pattern）](./2_1_adapter/READMED.md)
++ [装饰器模式（Decorator Pattern）](./2_2_decorator/READMED.md)
++ [代理模式（Proxy Pattern）](./2_3_proxy/READMED.md)
++ [外观模式（Facade Pattern）](./2_4_facade/READMED.md)
++ [桥接模式（Bridge Pattern）](./2_5_bridge/READMED.md)
++ [组合模式（Composite Pattern）](./2_6_composite/READMED.md)
++ [享元模式（Flyweight Pattern）](./2_7_flyweight/READMED.md)
 
 ### 行为型模式
 这些模式处理对象之间的通信和协作，定义了对象如何相互合作以实现更大的功能
