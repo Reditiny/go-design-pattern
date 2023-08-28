@@ -24,16 +24,16 @@
 
 ### 行为型模式
 这些模式处理对象之间的通信和协作，定义了对象如何相互合作以实现更大的功能
-+ [策略模式（Strategy Pattern）]()
-+ [观察者模式（Observer Pattern）]()
-+ [责任链模式（Chain of Responsibility Pattern）]()
-+ [命令模式（Command Pattern）]()
-+ [解释器模式（Interpreter Pattern）]()
-+ [迭代器模式（Iterator Pattern）]()
-+ [中介者模式（Mediator Pattern）]()
-+ [备忘录模式（Memento Pattern）]()
-+ [状态模式（State Pattern）]()
-+ [访问者模式（Visitor Pattern）]()
++ [策略模式（Strategy Pattern）](./3_1_strategy/READMED.md)
++ [观察者模式（Observer Pattern）](./3_2_observer/READMED.md)
++ [责任链模式（Chain of Responsibility Pattern）](./3_3_responsibility_chan/READMED.md)
++ [命令模式（Command Pattern）](./3_4_command/READMED.md)
++ [解释器模式（Interpreter Pattern）](./3_5_interpreter/READMED.md)
++ [迭代器模式（Iterator Pattern）](./3_6_iterator/READMED.md)
++ [中介者模式（Mediator Pattern）](./3_7_mediator/READMED.md)
++ [备忘录模式（Memento Pattern）](./3_8_memento/READMED.md)
++ [状态模式（State Pattern）](./3_9_state/READMED.md)
++ [访问者模式（Visitor Pattern）](./3_10_visitor/READMED.md)
 
 ## 设计原则
 软件设计原则是在软件开发过程中指导设计决策的基本指导方针。这些原则旨在帮助开发人员创建更加可维护、可扩展和可重用的软件，以及降低代码的复杂性。以下是一些常见的软件设计原则：
